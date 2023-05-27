@@ -1,2 +1,2 @@
 # trybe-exercicios
-Exercícios feitos ao longo da minha formação como Desenvolvedor Web na Trybe.
+Este repositório contém todos os exercícios feitos ao longo da minha formação como Desenvolvedor Web na Trybe.
