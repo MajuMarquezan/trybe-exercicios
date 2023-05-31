@@ -15,4 +15,3 @@ console.log(divisao);
 
 let modulo = num1 % num2;
 console.log(modulo);
-
