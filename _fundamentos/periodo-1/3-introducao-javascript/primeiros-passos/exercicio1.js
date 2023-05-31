@@ -3,3 +3,6 @@ let num2 = 5;
 
 let soma = num1 + num2;
 console.log(soma);
+
+let subtracao = num1 - num2;
+console.log(subtracao);
