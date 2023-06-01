@@ -21,3 +21,11 @@ console.log(shoppingList);
 shoppingList.unshift('Água de Coco');
 
 console.log(shoppingList);
+
+console.log(shoppingList.length);
+
+shoppingList.push('Banana');
+
+console.log(shoppingList);
+
+console.log(shoppingList.length);
