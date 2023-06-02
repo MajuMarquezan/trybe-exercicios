@@ -1,7 +1,7 @@
 const fruits = ['banana', 'apple', 'orange', 'lemon']
 
-for (let index = 0; index < fruits.length; index+= 1) {
+for (let index = 0; index < fruits.length; index += 1) {
 
 }
 
-console.log(fruits)
+console.log(fruits[index])
