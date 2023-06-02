@@ -5,6 +5,6 @@ function minhaFuncao (mensagem) {
 
 minhaFuncao('Hello World!');
 minhaFuncao('olaaaaaaaaa!');
-minhaFuncao('oiew!');
+minhaFuncao('Hello World!');
 
 
