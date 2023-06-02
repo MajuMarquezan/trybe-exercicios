@@ -1,7 +1,10 @@
-const fruits = ['banana', 'apple', 'orange', 'lemon']
 
-for (let index = 0; index < fruits.length; index += 1) {
-
+function minhaFuncao (mensagem) {
+    console.log(mensagem);
 }
 
-console.log(fruits[index])
+minhaFuncao('Hello World!');
+minhaFuncao('olaaaaaaaaa!');
+minhaFuncao('oiew!');
+
+
