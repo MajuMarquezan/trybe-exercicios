@@ -10,3 +10,5 @@ const product = {
   };
   
   console.log(Object.keys(product));
+
+  console.log(Object.values(product));
